@@ -5,10 +5,11 @@
 
 **Data**: DARYA?
 
+Dataset (provided by Darya) : 815 complete subjects at rest with both two sessions (Session 1/ Session 2) for both LR/RL.
+
 **Code**: https://github.com/josephsalmon/ReproduceFinn2015
 
 
-Dataset (provided by Darya) : 815 complete subjects at rest with both two sessions (Session 1/ Session 2) for both LR/RL.
 
 ## Preliminary: preprocessing / understanding / visualization of the dataset.
 PCA step performed
