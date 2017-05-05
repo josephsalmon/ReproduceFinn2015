@@ -20,6 +20,7 @@ indiv_connect_mat = {}
 mean_connect_mat = {}
 
 dirname = '/home/jo/Documents/Mes_papiers/Retraite2017/Data/HCP_timeseries'
+# dirname = '.../HCP_timeseries'  # MODIFY according to data location.
 
 
 def connnect_creation(df_int, kind='correlation'):
